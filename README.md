@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # OpsPilot AI
 ### Evidence-Driven Autonomous Incident Investigation and Recovery Platform
 
@@ -191,10 +192,6 @@ opspilot-ai/
 │
 ├── requirements.txt
 ├── README.md
-├── opspilot.db
-│
-└── .venv/
-```
 
 ## 8. Installation and Setup
 
@@ -207,7 +204,7 @@ opspilot-ai/
 ### Step 1: Clone the repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/shrutisingh-30/opspilot-ai.git
 cd opspilot-ai
 ```
 
@@ -307,3 +304,7 @@ The objective of OpsPilot AI is to demonstrate how evidence-driven investigation
 **Category:** Backend Engineering / AI Engineering / Site Reliability Engineering  
 **Status:** Simulated MVP  
 **Primary Technologies:** Python, FastAPI, SQLite, Pytest
+=======
+# opspilot-ai
+Evidence-Driven Autonomous Incident Investigation and Recovery Platform
+>>>>>>> 67b106df66f0c53cba870e01e0ca012b57b38cec
